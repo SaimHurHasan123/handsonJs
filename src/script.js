@@ -189,3 +189,8 @@ function reusableFunction() {
     console.log(s);
   }
   functionWithArgs(7,9);
+  function timesFive(num) {
+    return num *5;
+  }
+  
+  const answer = timesFive(5);
