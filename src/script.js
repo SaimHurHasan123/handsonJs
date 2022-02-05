@@ -1,2 +1,3 @@
 //hi how are you
 /* hi how are you bye*/
+var myName;
