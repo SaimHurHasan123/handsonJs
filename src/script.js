@@ -147,3 +147,8 @@ const myArray = ["peanut butter" , 4];
 const myArray = [["Bulls", 23], ["White Sox", 45]];
 const myArray = [50, 60, 70];
 const myData=myArray[0];
+// Setup
+const myArray = [55, 64, 99];
+myArray[0]=45;
+// Only change code below this line
+
