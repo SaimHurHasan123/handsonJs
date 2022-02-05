@@ -183,3 +183,9 @@ function reusableFunction() {
     console.log("Hi World");
   }
   reusableFunction();
+
+  function functionWithArgs(p1, p2) {
+    var s=p1+p2;
+    console.log(s);
+  }
+  functionWithArgs(7,9);
