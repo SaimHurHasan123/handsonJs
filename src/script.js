@@ -9,3 +9,5 @@ a=7;
 var b;
 b =a;
 var a=9;
+var myFirstName ="saim";
+var myLastName ="hasan";
